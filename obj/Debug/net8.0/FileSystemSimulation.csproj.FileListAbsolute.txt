@@ -1,0 +1,14 @@
+C:\Users\fhulufhelo\source\repos\FileSystemSimulation\bin\Debug\net8.0\FileSystemSimulation.exe
+C:\Users\fhulufhelo\source\repos\FileSystemSimulation\bin\Debug\net8.0\FileSystemSimulation.deps.json
+C:\Users\fhulufhelo\source\repos\FileSystemSimulation\bin\Debug\net8.0\FileSystemSimulation.runtimeconfig.json
+C:\Users\fhulufhelo\source\repos\FileSystemSimulation\bin\Debug\net8.0\FileSystemSimulation.dll
+C:\Users\fhulufhelo\source\repos\FileSystemSimulation\bin\Debug\net8.0\FileSystemSimulation.pdb
+C:\Users\fhulufhelo\source\repos\FileSystemSimulation\obj\Debug\net8.0\FileSystemSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fhulufhelo\source\repos\FileSystemSimulation\obj\Debug\net8.0\FileSystemSimulation.AssemblyInfoInputs.cache
+C:\Users\fhulufhelo\source\repos\FileSystemSimulation\obj\Debug\net8.0\FileSystemSimulation.AssemblyInfo.cs
+C:\Users\fhulufhelo\source\repos\FileSystemSimulation\obj\Debug\net8.0\FileSystemSimulation.csproj.CoreCompileInputs.cache
+C:\Users\fhulufhelo\source\repos\FileSystemSimulation\obj\Debug\net8.0\FileSystemSimulation.dll
+C:\Users\fhulufhelo\source\repos\FileSystemSimulation\obj\Debug\net8.0\refint\FileSystemSimulation.dll
+C:\Users\fhulufhelo\source\repos\FileSystemSimulation\obj\Debug\net8.0\FileSystemSimulation.pdb
+C:\Users\fhulufhelo\source\repos\FileSystemSimulation\obj\Debug\net8.0\FileSystemSimulation.genruntimeconfig.cache
+C:\Users\fhulufhelo\source\repos\FileSystemSimulation\obj\Debug\net8.0\ref\FileSystemSimulation.dll
