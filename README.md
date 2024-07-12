@@ -21,6 +21,6 @@ You can also visit my personal portfolio below to view other projects and more.
 
 <a href="https://fhulufhelobulasigobo.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
-© 2024 Fhulufhelo Bulasigobo
+© 2024 Fhulufhelo Shaun Bulasigobo
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
